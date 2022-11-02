@@ -1,11 +1,17 @@
 <!doctype html>
 <html>
 <head>
-<title>Our Funky HTML Page</title>
-<meta name="description" content="Our first page">
-<meta name="keywords" content="html tutorial template">
+<title>Hinnakiri</title>
+<meta name="description" content="Hinnakiri">
+<meta name="keywords" content="Hinnakiri">
 </head>
 <body>
-Content goes here.
+<h1>Hinnakiri</h1>
+<h2>Naiste juuksur</h2>
+<h2>Meeste juuksur</h2>
+<h2>Laste juuksur</h2>
+<h2>Geelküüned</h2>
+<h2>Teip juuksepikendused</h2>
+
 </body>
 </html>
